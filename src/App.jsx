@@ -6,7 +6,7 @@ import fs from "fs";
 
 
 const client =
-    new OpenAI({ apiKey: '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', dangerouslyAllowBrowser: true });
+    new OpenAI({ apiKey: 'key', dangerouslyAllowBrowser: true });
 
 // const prompt = 'A children\'s book drawing of a veterinarian using a stethoscope to \n' +
 //     'listen to the heartbeat of a baby otter.';
